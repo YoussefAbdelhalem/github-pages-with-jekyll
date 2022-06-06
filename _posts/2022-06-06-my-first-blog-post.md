@@ -4,5 +4,6 @@ Photo ^
 instagram: Youssef_is_my_name
 Brag Sheet: my height, Me, and my grades
 ---
-title: "my-first-blog"
+title: "my first blog"
 date: 2022-06-06
+---
