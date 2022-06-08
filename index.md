@@ -1,7 +1,7 @@
 ---
 title: "Welcome to my blog"
 ---
-![Picture of Youssef](/github-pages-with-jekyll/MicrosoftTeams-image.jpg)  
+![Picture of Youssef](/github-pages-with-jekyll/MicrosoftTeams-image.png)  
 Name  
 Picture  
 Social Media information  
