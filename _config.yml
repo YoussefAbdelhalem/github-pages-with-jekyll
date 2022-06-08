@@ -1,8 +1,9 @@
 title: My website
 author: Youssef Abdelhalem
 email: Yabdelhalem@ebnet.org
-description: Website for Mr.Cohens Ap comp sci A class 
-theme: Minima.
+theme: minima
+description: > Website for Mr.Cohens Ap comp sci A class 
+
 # social links
 Instagram_username: youssef_is_my_name
 github_username:  YoussefAbdelhalem
